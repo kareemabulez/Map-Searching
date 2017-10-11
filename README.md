@@ -65,3 +65,19 @@ try {
 ```
 
 4) If you find yourself writing tedious code like if map[row+1][col] == 'W' or row+1 == 'V', if map[row][col+1] == 'W' or map[row][col+1] =='V' it might be time to think about using classes and/or methods to make things more readable and robust.
+
+
+Place your Solution in an Intellij project called A2 that sits within this Repository (you may like to copy the map.txt file into that project):
+```
+CS261-A02-YOURUSERNAME
+|   README.md
+|   .gitignore
+|   map.txt
+|___A2
+    |   your
+    |   intellij
+    |   project files
+```
+
+
+
