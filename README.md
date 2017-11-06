@@ -66,6 +66,14 @@ try {
 
 4) If you find yourself writing tedious code like if map[row+1][col] == 'W' or row+1 == 'V', if map[row][col+1] == 'W' or map[row][col+1] =='V' it might be time to think about using classes and/or methods to make things more readable and robust.
 
+Grading:
+
+| Description  | Your Grade  | Max Grade  |
+|---|---|---|
+|Coding Design| 4 | 4 |
+|Functionality| 5 | 5 | 
+|Structure    | 1 | 1 |
+10/10
 
 Place your Solution in an Intellij project called A2 that sits within this Repository (you may like to copy the map.txt file into that project):
 ```
